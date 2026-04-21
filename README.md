@@ -51,7 +51,7 @@ Yahoo Finance API → Python ETL → PostgreSQL → Power BI Dashboard
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](pipeline projectdashboard .png)
 
 ---
 

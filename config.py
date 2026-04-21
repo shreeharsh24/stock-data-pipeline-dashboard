@@ -1,6 +1,6 @@
 DB_CONFIG = {
     "user": "postgres",
-    "password": "2480",
+    "password": "****",
     "host": "localhost",
     "port": "5432",
     "database": "stocks_db"
